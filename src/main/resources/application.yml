@@ -1,0 +1,7 @@
+server:
+  port: 9001
+
+cloud:
+  aws:
+    endpoint:
+      url: <SQS-URL>
